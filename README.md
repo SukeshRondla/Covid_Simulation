@@ -5,8 +5,6 @@ An implementation of Craig Reynolds's Boids flocker model. Agents (simulated bir
 This model tests Mesa's continuous space feature, and uses numpy arrays to represent vectors. It also demonstrates how to create custom visualization components.
 
 ## How to Run
-This is the University Proejct.
-
 
 Launch the model:
 ```
